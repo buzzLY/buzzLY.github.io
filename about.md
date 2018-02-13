@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-NYU Grad | Computer Science
+NYU Grad
+Masters in Computer Science
 
 ### More Information
 
